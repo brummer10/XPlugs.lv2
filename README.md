@@ -50,6 +50,13 @@ RMS                        |  Direct
 :-------------------------:|:-------------------------:
 ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView.png) | ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView_direct.png)
 
+## Dependencys
+
+- libcairo2-dev
+- libx11-dev
+- lv2-dev
+- libfluidsynth-dev
+
 ## Build
 
 - make
