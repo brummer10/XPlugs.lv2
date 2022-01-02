@@ -1,0 +1,45 @@
+[submodule "CollisionDrive"]
+	path = CollisionDrive
+	url = https://github.com/brummer10/CollisionDrive.git
+[submodule "Rumor"]
+	path = Rumor
+	url = https://github.com/brummer10/Rumor.git
+[submodule "HarmonicExciter"]
+	path = HarmonicExciter
+	url = https://github.com/brummer10/HarmonicExciter.git
+[submodule "libxputty"]
+	path = libxputty
+	url = https://github.com/brummer10/libxputty.git
+[submodule "screcord.lv2"]
+	path = screcord.lv2
+	url = https://github.com/brummer10/screcord.lv2.git
+[submodule "Fluida.lv2"]
+	path = Fluida.lv2
+	url = https://github.com/brummer10/Fluida.lv2
+[submodule "Xmonk.lv2"]
+	path = Xmonk.lv2
+	url = https://github.com/brummer10/Xmonk.lv2
+[submodule "XKeyboard.lv2"]
+	path = XKeyboard.lv2
+	url = https://github.com/brummer10/XKeyboard.lv2
+[submodule "XMixer.lv2"]
+	path = XMixer.lv2
+	url = https://github.com/brummer10/XMixer.lv2
+[submodule "XWaveView.lv2"]
+	path = XWaveView.lv2
+	url = https://github.com/brummer10/XWaveView.lv2
+[submodule "XTinyTerror.lv2"]
+	path = XTinyTerror.lv2
+	url = https://github.com/brummer10/XTinyTerror.lv2
+[submodule "XPolyMonk.lv2"]
+	path = XPolyMonk.lv2
+	url = https://github.com/brummer10/XPolyMonk.lv2
+[submodule "XDarkTerror.lv2"]
+	path = XDarkTerror.lv2
+	url = https://github.com/brummer10/XDarkTerror.lv2
+[submodule "LittleFly.lv2"]
+	path = LittleFly.lv2
+	url = https://github.com/brummer10/LittleFly.lv2
+[submodule "FatFrog.lv2"]
+	path = FatFrog.lv2
+	url = https://github.com/brummer10/FatFrog.lv2
