@@ -1,7 +1,7 @@
 # XPlugs.lv2
 
 This repository contain the LV2 plugins I've made using libxputty/XUidesigner.
-The included makfile allow the build of all plugs against a single checkout of libxputty.
+The included makefile allow the build of all plugs against a single checkout of libxputty.
 Each plugin exists as its own submodule under this repository.
 
 ## Plugins
@@ -64,7 +64,7 @@ RMS                        |  Direct
 :-------------------------:|:-------------------------:
 ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView.png) | ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView_direct.png)
 
-## Dependencys
+## Dependencies
 
 - libcairo2-dev
 - libx11-dev
@@ -76,4 +76,3 @@ RMS                        |  Direct
 - make
 - make install # will install into ~/.lv2 ... AND/OR....
 - sudo make install # will install into /usr/lib/lv2
-
