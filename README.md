@@ -70,6 +70,7 @@ RMS                        |  Direct
 - libx11-dev
 - lv2-dev
 - libfluidsynth-dev
+- xxd
 
 ## Build
 
