@@ -71,6 +71,7 @@ RMS                        |  Direct
 - lv2-dev
 - libfluidsynth-dev
 - xxd
+- liblilv-dev
 
 ## Build
 
