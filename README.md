@@ -31,7 +31,7 @@ The Rumor is pure, nasty growling bass fuzz pedal, with bold out-front presence,
 ![Rumor](https://github.com/brummer10/Rumor/blob/master/Rumor.png?raw=true)
 
 ###### screcord
-a Lv2 capture plugin  
+a LV2 capture plugin  
 ![screcord.lv2](https://github.com/brummer10/screcord.lv2/raw/master/screcord.png)
 
 ###### XDarkTerror
