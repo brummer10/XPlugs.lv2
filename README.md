@@ -1,7 +1,7 @@
 # XPlugs.lv2
 
 This repository contain the LV2 plugins I've made using libxputty/XUidesigner.
-The included makfile allow the build of all plugs against a single checkout of libxputty.
+The included makefile allow the build of all plugs against a single checkout of libxputty.
 Each plugin exists as its own submodule under this repository.
 
 ## Plugins
@@ -31,7 +31,7 @@ The Rumor is pure, nasty growling bass fuzz pedal, with bold out-front presence,
 ![Rumor](https://github.com/brummer10/Rumor/blob/master/Rumor.png?raw=true)
 
 ###### screcord
-a Lv2 capture plugin  
+a LV2 capture plugin  
 ![screcord.lv2](https://github.com/brummer10/screcord.lv2/raw/master/screcord.png)
 
 ###### XDarkTerror
@@ -64,16 +64,17 @@ RMS                        |  Direct
 :-------------------------:|:-------------------------:
 ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView.png) | ![XWaveView](https://github.com/brummer10/XWaveView.lv2/raw/master/XWaveView_direct.png)
 
-## Dependencys
+## Dependencies
 
 - libcairo2-dev
 - libx11-dev
 - lv2-dev
 - libfluidsynth-dev
+- xxd
+- liblilv-dev
 
 ## Build
 
 - make
 - make install # will install into ~/.lv2 ... AND/OR....
 - sudo make install # will install into /usr/lib/lv2
-
