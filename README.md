@@ -72,6 +72,7 @@ RMS                        |  Direct
 - libfluidsynth-dev
 - xxd
 - liblilv-dev
+- libsndfile1-dev
 
 ## Build
 
